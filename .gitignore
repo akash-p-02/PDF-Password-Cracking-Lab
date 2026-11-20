@@ -1,0 +1,9 @@
+# Temporary and operating-system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Do not commit local wordlists or unrelated source PDFs by default
+wordlists/
+*.wordlist
