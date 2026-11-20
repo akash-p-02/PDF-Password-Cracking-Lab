@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PDF Password Cracking Lab
 
 A hands-on cybersecurity practical documenting PDF password-hash extraction and dictionary-based password recovery using Kali Linux, John the Ripper, and NetworkWalks lab tools.
@@ -106,3 +107,6 @@ The detailed practical report, including the methodology, terminal output, recov
 
 - [PDF Report](Report/PDF-Password-Cracking-Report.pdf)
 - [Editable Word Report](Report/PDF-Password-Cracking-Report.docx)
+=======
+# PDF-Password-Cracking-Lab
+>>>>>>> 7bb67ae8fc41c2bf57b9077328d303defcf3c63d
